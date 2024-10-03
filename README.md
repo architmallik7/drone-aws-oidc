@@ -1,1 +1,1 @@
-# drone-awss-oidc
+# drone-awss-oidcc
